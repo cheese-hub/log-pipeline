@@ -1,2 +1,6 @@
-# log-pipeline
-config, filters and queries of logstash and elasticsearch for nginx logs usage tracking
+# Nginx Log Pipeline
+
+## Versions
+
+Elasticsearch v7.7.0
+Logstash v7.7.0
